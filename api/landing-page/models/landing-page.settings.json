@@ -74,7 +74,7 @@
       "component": "page.section-reviews",
       "required": true
     },
-    "sectionFAQ": {
+    "sectionFaq": {
       "type": "component",
       "repeatable": false,
       "component": "page.section-faq",
